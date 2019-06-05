@@ -1,0 +1,11 @@
+D:\桌面\计网\计网实验\WinSock\WinSock\bin\Debug\WinSock.exe.config
+D:\桌面\计网\计网实验\WinSock\WinSock\bin\Debug\WinSock.exe
+D:\桌面\计网\计网实验\WinSock\WinSock\bin\Debug\WinSock.pdb
+D:\桌面\计网\计网实验\WinSock\WinSock\obj\Debug\WinSock.csprojAssemblyReference.cache
+D:\桌面\计网\计网实验\WinSock\WinSock\obj\Debug\WinSock.Form1.resources
+D:\桌面\计网\计网实验\WinSock\WinSock\obj\Debug\WinSock.Properties.Resources.resources
+D:\桌面\计网\计网实验\WinSock\WinSock\obj\Debug\WinSock.csproj.GenerateResource.cache
+D:\桌面\计网\计网实验\WinSock\WinSock\obj\Debug\WinSock.csproj.CoreCompileInputs.cache
+D:\桌面\计网\计网实验\WinSock\WinSock\obj\Debug\WinSock.exe
+D:\桌面\计网\计网实验\WinSock\WinSock\obj\Debug\WinSock.pdb
+D:\桌面\计网\计网实验\WinSock\WinSock\obj\Debug\WinSock.Form2.resources
